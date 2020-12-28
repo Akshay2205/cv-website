@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cv-website%20/static/css/main.14144054.chunk.css",
+    "main.js": "/cv-website%20/static/js/main.83a0d650.chunk.js",
+    "main.js.map": "/cv-website%20/static/js/main.83a0d650.chunk.js.map",
+    "runtime-main.js": "/cv-website%20/static/js/runtime-main.ba393040.js",
+    "runtime-main.js.map": "/cv-website%20/static/js/runtime-main.ba393040.js.map",
+    "static/css/2.a7230bcb.chunk.css": "/cv-website%20/static/css/2.a7230bcb.chunk.css",
+    "static/js/2.7cd43947.chunk.js": "/cv-website%20/static/js/2.7cd43947.chunk.js",
+    "static/js/2.7cd43947.chunk.js.map": "/cv-website%20/static/js/2.7cd43947.chunk.js.map",
+    "index.html": "/cv-website%20/index.html",
+    "static/css/2.a7230bcb.chunk.css.map": "/cv-website%20/static/css/2.a7230bcb.chunk.css.map",
+    "static/css/main.14144054.chunk.css.map": "/cv-website%20/static/css/main.14144054.chunk.css.map",
+    "static/js/2.7cd43947.chunk.js.LICENSE.txt": "/cv-website%20/static/js/2.7cd43947.chunk.js.LICENSE.txt",
+    "static/media/person1.c1a98b04.jpg": "/cv-website%20/static/media/person1.c1a98b04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba393040.js",
+    "static/css/2.a7230bcb.chunk.css",
+    "static/js/2.7cd43947.chunk.js",
+    "static/css/main.14144054.chunk.css",
+    "static/js/main.83a0d650.chunk.js"
+  ]
+}
